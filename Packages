@@ -1,0 +1,10 @@
+Package: com.aug1stdev.carrier12
+Name: Carrier 12
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Change Carrier name iOS 12.
+Maintainer: Aug1stDev <hupu.aug1st.vn@gmail.com>
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Filename: ./debs/com.aug1stdev.carrier12_0.0.1-4_iphoneos-arm.deb
