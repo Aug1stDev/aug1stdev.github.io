@@ -3,6 +3,7 @@ Name: Carrier 12
 Version: 0.0.1-4
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
+Depiction: https://aug1stdev.github.io/depictions/?p=com.aug1stdev.carrier12
 Description: Change Carrier name iOS 12.
 Maintainer: Aug1stDev <hupu.aug1st.vn@gmail.com>
 Author: pxcex <pxcex@icloud.com>
