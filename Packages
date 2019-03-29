@@ -1,14 +1,15 @@
 Package: vn.aug1st.neptune
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Name: Neptune for iPhone
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Aug1stDev <hupu.aug1st.vn@icloud.com>
-Installed-Size: 369
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/vn.aug1st.neptune_1.0_iphoneos-arm.deb
-Size: 144852
-MD5sum: 381b7e4e66358f4dc43990ddd5c79f96
-Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
-Author: Duraid Abdul
+Installed-Size: 369
+Maintainer: Aug1stDev <hupu.aug1st.vn@icloud.com>
+Author: Duraid Abdul <feedback.100@icloud.com>
+Sponsor: Aug1stDev <hupu.aug1st.vn@icloud.com>
+Section: Tweaks
 Depiction: ./depictions/vn.aug1st.neptune
+Filename: ./debs/vn.aug1st.neptune_1.0_iphoneos-arm.deb
+Size: 144930
+MD5sum: 4803b5c510b20c1e667f53418359d35c
