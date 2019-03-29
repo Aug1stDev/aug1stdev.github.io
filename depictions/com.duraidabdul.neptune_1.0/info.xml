@@ -1,0 +1,20 @@
+<package>
+	<id>com.duraidabdul.neptune</id>
+	<name>Neptune</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Enable Apple's modern fluid gestural interface on all devices.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Enable Apple's modern fluid gestural interface on all devices.</change>
+	</changelog>
+	<links></links>
+</package>
