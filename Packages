@@ -25,3 +25,15 @@ Description: Themes Black & Gold version 2 designed by HaTiaTo, KimCham & Aug1st
 Filename: ./debs/vn.aug1st.blackgold_2.0_iphoneos-arm.deb
 Size: 1784094
 MD5sum: 72447bef317199e5cea039ee7054e1c0
+
+Package: vn.aug1st.blackgold
+Version: 2.1
+Section: Themes
+Maintainer: Aug1stDev <hupu.aug1st.vn@icloud.com>
+Architecture: iphoneos-arm
+Name: Black & Gold
+Author: HaTiaTo, KimCham, Aug1st
+Description: Themes Black & Gold version 2 designed by HaTiaTo, KimCham & Aug1st.
+Filename: ./debs/vn.aug1st.blackgold_2.1_iphoneos-arm.deb
+Size: 1813296
+MD5sum: a031ea4fa7ebefd4546a185d4939862e
