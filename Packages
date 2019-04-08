@@ -37,3 +37,17 @@ Description: Themes Black & Gold version 2 designed by HaTiaTo, KimCham & Aug1st
 Filename: ./debs/vn.aug1st.blackgold_2.1_iphoneos-arm.deb
 Size: 1813296
 MD5sum: a031ea4fa7ebefd4546a185d4939862e
+
+Package: vn.aug1st.xeonbeta
+Name: Xeon (Beta)
+Version: 1.2~beta3
+Architecture: iphoneos-arm
+Description: Xeon is a Zeppelin alternative for iPad(iOS 12) and iPhone X-style status bar. You can use Zeppelin theme also.
+Maintainer: Aug1stDev <hupu.aug1st.vn@icloud.com>
+Author: PeterDev
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
+Icon: https://nexusrepo.kro.kr/depictions/com.peterdev.xeon/screenshots/Icon.png
+Section: Tweaks
+Filename: ./debs/vn.aug1st.xeonbeta_1.2~beta3_iphoneos-arm.deb
+Size: 1025040
+MD5sum: 28fd7667b4b086c83270f9716e7aa674
